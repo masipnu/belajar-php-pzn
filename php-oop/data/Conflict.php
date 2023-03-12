@@ -6,6 +6,16 @@ namespace Data\One
     {
 
     }
+
+    class Dummy
+    {
+
+    }
+
+    class Sample
+    {
+
+    }
 }
 
 namespace Data\Two
