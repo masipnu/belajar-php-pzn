@@ -11,6 +11,7 @@ class Person
     {
         $this->name = $name;
         $this->address = $address;
+        echo "Objek person $this->name telah dibuat" . PHP_EOL;
     }
 
     function sayHello(?string $name){
@@ -23,5 +24,10 @@ class Person
 
     function info(){
         echo "Author : " . self::AUTHOR . PHP_EOL;
+    }
+
+    function __destruct()
+    {
+        echo "Object person $this->name is destroyed" . PHP_EOL;
     }
 }
