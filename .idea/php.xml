@@ -14,7 +14,7 @@
       <server host="localhost" id="582608cd-2069-44f6-8a59-089b64806b2e" name="localhost" />
     </servers>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2">
     <option name="suggestChangeDefaultLanguageLevel" value="false" />
   </component>
   <component name="PhpStanOptionsConfiguration">
