@@ -1,6 +1,6 @@
 <?php
 
-function addTodoList()
+function viewAddTodoList()
 {
 
 }
